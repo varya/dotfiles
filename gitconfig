@@ -1,8 +1,8 @@
 [user]
-    name = Vladimir Varankin
-    email = vladimir@varank.in
+    name = Varya Stepanova
+    email = mail@varya.me
 [github]
-    user = narqo
+    user = varya
 [url "https://github.com/"]
     insteadOf = "gh://"
 [core]
