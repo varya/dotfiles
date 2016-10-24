@@ -57,3 +57,5 @@ else
     PS1="\h 𝒪𝓃 \w\n  𝒟ℴ  "
 fi
 
+export NVM_DIR="$HOME/.nvm"
+. "$(brew --prefix nvm)/nvm.sh"
